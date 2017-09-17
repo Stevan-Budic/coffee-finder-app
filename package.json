@@ -1,0 +1,16 @@
+{
+  "name": "quantox",
+  "version": "1.0.0",
+  "description": "![MINI - A naked barebone PHP application](_install/mini-logo.png)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stevan Budic",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
